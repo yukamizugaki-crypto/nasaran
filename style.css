@@ -663,6 +663,12 @@ ul { list-style: none; }
   flex-wrap: wrap;
   align-items: baseline;
 }
+.course-name {
+  font-size: 1.15rem;
+  color: var(--c-cream);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+}
 .course-time {
   font-size: 1.05rem;
   color: var(--c-amber-lt);
